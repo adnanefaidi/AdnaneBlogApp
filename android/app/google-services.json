@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720850389765",
+    "firebase_url": "https://adnaneblogapp.firebaseio.com",
+    "project_id": "adnaneblogapp",
+    "storage_bucket": "adnaneblogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720850389765:android:da5a663a146ed75178c56c",
+        "android_client_info": {
+          "package_name": "com.example.adnane_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720850389765-af3isvpf9u2j5dnrv9iug7b8bv66s1v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApL6IxXvo2LsExovvOQfVdtjYtDCISkW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720850389765-af3isvpf9u2j5dnrv9iug7b8bv66s1v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
